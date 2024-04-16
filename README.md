@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Helga2108
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on Data
-- 📫 How to reach me Helgahirsch@hotmail.com
-- 😄 Pronouns: Helga
-- ⚡ Fun fact: ...
+- 👋 Hola, mi nombre es Helga Hirsch
+- 👀 Apasionada de la analitica de datos
+- 🌱 Estoy aprendiendo Python
+- 💞️ Estoy desarrollando mis skills para perfeccionar mis trabajos
+- 📫 Helgahirsch@hotmail.com
+- 😄 Pueden ver mis trabajos en archivos adjuntos
+
 
 <!---
 Helga2108/Helga2108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
